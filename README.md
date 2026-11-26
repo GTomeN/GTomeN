@@ -2,8 +2,6 @@
 
 Estudante de Engenharia de Software na FIAP (3º semestre, conclusão prevista para o fim de 2029). Desenvolvo aplicações web com React e Vite e publico os projetos na Vercel.
 
-Disponível para estágio, CLT ou PJ.
-
 ## Tecnologias
 
 React · JavaScript · HTML · CSS · Vite · React Router · Axios · Git · GitHub · Vercel · Python
