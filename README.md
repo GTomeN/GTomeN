@@ -18,5 +18,5 @@ App educacional para organizar o conteúdo das aulas por matéria. Projeto em gr
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/guilherme-tom%C3%A9-131420369/)
+- [LinkedIn](https://www.linkedin.com/in/gtomen/)
 - tomeegn@gmail.com
